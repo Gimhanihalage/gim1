@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250">
+  <rect width="400" height="250" fill="#141C27"/>
+  <rect x="24" y="24" width="352" height="24" rx="4" fill="#212B38"/>
+  <circle cx="38" cy="36" r="5" fill="#35E0C0"/>
+  <circle cx="56" cy="36" r="5" fill="#F5B942"/>
+  <circle cx="74" cy="36" r="5" fill="#212B38"/>
+  <rect x="24" y="70" width="200" height="12" rx="2" fill="#212B38"/>
+  <rect x="24" y="94" width="280" height="12" rx="2" fill="#212B38"/>
+  <rect x="24" y="118" width="160" height="12" rx="2" fill="#212B38"/>
+  <text x="200" y="200" text-anchor="middle" font-family="monospace" font-size="12" fill="#35E0C0">// TODO: replace with a real screenshot</text>
+</svg>
